@@ -1,2 +1,4 @@
 ## New Feature
-This project demonstrates Git, GitHub and teamwork.
+
+This project demonstrates Git and collaboration
+
