@@ -1,3 +1,2 @@
 ## New Feature
-
-This project demonstrates Git, Hello.
+Added a new welcome message feature.
