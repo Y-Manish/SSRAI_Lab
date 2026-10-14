@@ -1,3 +1,3 @@
 ## New Feature
 
-Added a new welcome message feature.
+This project demonstrates Git, GitHub and collaboration.
