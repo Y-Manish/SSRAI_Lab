@@ -1,3 +1,3 @@
 ## New Feature
 
-This project demonstrates Git, Hello.
+This project demonstrates Git and collaboration
